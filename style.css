@@ -25,6 +25,10 @@ section {
   max-width: 600px;
   border-radius: 8px;
 }
+a {
+  color: #4da6ff;
+  text-decoration: underline;
+}
 
 footer {
   background: #333;
