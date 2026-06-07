@@ -36,3 +36,7 @@ footer {
   padding: 20px;
   margin-top: 20px;
 }
+footer a {
+  color: #4da6ff;
+  text-decoration: underline;
+}
